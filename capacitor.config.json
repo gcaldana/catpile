@@ -1,0 +1,12 @@
+{
+  "appId": "it.gianmarco.mucchiodigatti",
+  "appName": "Cat Pile",
+  "webDir": "www",
+  "backgroundColor": "#c6ddef",
+  "android": {
+    "allowMixedContent": false
+  },
+  "ios": {
+    "contentInset": "never"
+  }
+}
